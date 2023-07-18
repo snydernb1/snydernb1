@@ -9,7 +9,7 @@ While I’m leaving architecture behind, I’m bringing a wealth of knowledge an
 ### Projects 
 - 🌱 Plantsy: https://plantsy-lm98.onrender.com/
 - 🦊 Foxtrot: https://foxtrot.onrender.com/
-- 🏡 Rarebnb: https://aa-api-project.onrender.com/
+- 🏡 Rarebnb: https://rarebnb-lymx.onrender.com/
 
 
 
