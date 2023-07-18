@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thanks for checking out my page! After spending nearly 5 years in architecture, I decided to embark on a new adventure and pursue software engineering. I’ve spent the past six months at App Academy working 40+ hour weeks, often including weekends, to learn several new skills including: Python, JavaScript, React, SQL and Node, to name a few. Additionally, I’ve built three full stack web application clones, which can be found below.
+Thanks for checking out my page! After spending nearly 5 years in architecture, I decided to embark on a new adventure and pursue software engineering. I’ve spent the past six months at App Academy working 40+ hour weeks, often including weekends, to learn several new skills including: Python, JavaScript, React, Redux, SQL and Node, to name a few. Additionally, I’ve built three full stack web application clones, which can be found below.
 
 While I’m leaving architecture behind, I’m bringing a wealth of knowledge and incredible experiences along with me in this new pursuit.  From coordinating revisions between owner, contractor and consultant teams to refining design details to bring a client’s vision to life. I’ve only just started my journey as a developer but, I believe my background in architecture has already given me a leg up at App Academy. I have been able to complete the program without being deferred (held back for scoring less than 80% on any test or failing any project specs).
 
